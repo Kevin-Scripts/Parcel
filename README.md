@@ -1,5 +1,7 @@
 ﻿# Parcel
 
+# Made using Astra and Gpt-6 Luna.
+
 Open **Parcel.exe** in this folder. This is a standalone, portable Windows desktop application, with no command window or installation step. It uses the Windows .NET Framework runtime (4.5 or later). The refreshed dark dashboard matches the kevin-advancedstorageunits UI: charcoal surfaces, a silver accent, subtle borders, rounded cards and Segoe UI typography. The application icon is embedded in the executable.
 
 1. Select the resource's `fxmanifest.lua` when prompted, or cancel and use **Select folder**.
